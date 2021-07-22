@@ -1,4 +1,4 @@
-https://dev.azure.com/v-hgusmao/pipelines-dotnet-core/_apis/build/status/hrmsft.pipelines-dotnet-core?branchName=master
+<img class="status-badge-image" src="https://dev.azure.com/v-hgusmao/pipelines-dotnet-core/_apis/build/status/hrmsft.pipelines-dotnet-core?branchName=master" alt="Example status badge for this pipeline.">
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
