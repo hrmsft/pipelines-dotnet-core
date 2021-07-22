@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/v-hgusmao/pipelines-dotnet-core/_apis/build/status/hrmsft.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/v-hgusmao/pipelines-dotnet-core/_build/latest?definitionId=1&branchName=master)
+https://dev.azure.com/v-hgusmao/pipelines-dotnet-core/_apis/build/status/hrmsft.pipelines-dotnet-core?branchName=master
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
